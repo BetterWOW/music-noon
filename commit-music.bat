@@ -6,7 +6,7 @@ git config --global user.name "user"
 git remote remove origin
 git remote add origin git@github.com:BetterWOW/music-noon.git
 git config core.sshCommand "ssh -i %rsa_path%"
-git pull -u origin master
+git pull origin master
 git add .
 git commit -m "update music"
 git push -u origin master
