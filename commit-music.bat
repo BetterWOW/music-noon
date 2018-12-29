@@ -9,5 +9,5 @@ git config core.sshCommand "ssh -i %rsa_path%"
 git pull origin master
 git add .
 git commit -m "update music"
-git push -u origin master
+git push -u origin master -f
 pause
