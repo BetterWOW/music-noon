@@ -1,2 +1,2 @@
-start "muisic" "C:\Users\ZhangGX\Desktop\music-noon\music\李玖哲 - 想太多.mp3"
+start "muisic" "李玖哲 - 想太多.mp3"
 pause
