@@ -1,5 +1,5 @@
 @echo off
-for  %%i in (*.mp3) do set muisicName=%%i
+for  %%i in (*) do set muisicName=%%i
 echo "start play----%muisicName%"
 call "%muisicName%"
 pause
