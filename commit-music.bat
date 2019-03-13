@@ -1,4 +1,4 @@
-::@echo off
+@echo off
 echo %~dp0
 set rsa_path=.git/ignore/music-noon/ssh-key/id_rsa
 git config --global user.email "wow@cmail.com"
