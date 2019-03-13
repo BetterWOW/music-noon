@@ -1,6 +1,6 @@
 ::@echo off
 echo %~dp0
-set rsa_path=.git/ignore/pack/ssh-key/id_rsa
+set rsa_path=.git/ignore/music-noon/ssh-key/id_rsa
 git config --global user.email "wow@cmail.com"
 git config --global user.name "user"
 git remote remove origin
